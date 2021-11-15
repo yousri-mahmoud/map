@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "city_id": 1,
+    "name": "Dallah",
+    "lat": "29.3000",
+    "lng": "30.8333"
+  },
+  {
+    "id": 2,
+    "city_id": 2,
+    "name": "6-October",
+    "lat": "29.9361",
+    "lng": "30.9269"
+  },
+  {
+    "id": 3,
+    "city_id": 3,
+    "name": "El-Saidia",
+    "lat": "21.4225",
+    "lng": "39.8261"
+  },
+  {
+    "id": 4,
+    "city_id": 4,
+    "name": "El-Zealfy",
+    "lat": "24.6500",
+    "lng": "46.7100"
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "country_id": 1,
+    "name": "Al-Fayoum"
+  },
+  {
+    "id": 2,
+    "country_id": 1,
+    "name": "Giza"
+  },
+  {
+    "id": 3,
+    "country_id": 2,
+    "name": "Mecca"
+  },
+  {
+    "id": 4,
+    "country_id": 2,
+    "name": "Riyadh"
+  }
+]
